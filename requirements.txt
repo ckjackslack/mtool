@@ -1,8 +1,11 @@
 click @ file:///home/ckjackslack/.cache/pypoetry/artifacts/bd/9c/91/fc982221d93312eb60d91ed31ec2945771bec0eb111953316ae8293dce/click-8.1.3-py3-none-any.whl
+Faker @ file:///home/ckjackslack/.cache/pypoetry/artifacts/7a/6b/39/ad0aa0a9073241486b590c8dc5b87573ec3a91973f064032e80bea069c/Faker-18.4.0-py3-none-any.whl
 Flask @ file:///home/ckjackslack/.cache/pypoetry/artifacts/4d/1b/2e/8e210edf007d9e1717949bc2bb1a2ea609a6c187269cb9e6a8c7c5579c/Flask-2.2.3-py3-none-any.whl
 importlib-metadata @ file:///home/ckjackslack/.cache/pypoetry/artifacts/13/6a/28/c74b867e810ad311c0126f6a1253b2fe09bc4fcb8f8d1924998e95de9b/importlib_metadata-6.5.0-py3-none-any.whl
 itsdangerous @ file:///home/ckjackslack/.cache/pypoetry/artifacts/a0/eb/86/3b57c01995c6daad9f3b47aba7edb72501b915276f47ccf22efe74a37e/itsdangerous-2.1.2-py3-none-any.whl
 Jinja2 @ file:///home/ckjackslack/.cache/pypoetry/artifacts/33/db/47/0926a99dba6f131e3566591eed52f286b44bcfddcbe351f4116fc4d26f/Jinja2-3.1.2-py3-none-any.whl
 MarkupSafe @ file:///home/ckjackslack/.cache/pypoetry/artifacts/c0/8d/d3/bf01f7d4157c6cca7371507be5f94e18d82ae02ed23dabc36aaa8f9d35/MarkupSafe-2.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+python-dateutil @ file:///home/ckjackslack/.cache/pypoetry/artifacts/0f/f1/e2/e1d3399cea26388e2ed5b93ea3e7c137d2b4027c5ba14c64ab839294ed/python_dateutil-2.8.2-py2.py3-none-any.whl
+six @ file:///home/ckjackslack/.cache/pypoetry/artifacts/48/e6/04/8118155ae3ec3a16dd2a213bbf7a7d8a62c596b2e90f73a22c896269f1/six-1.16.0-py2.py3-none-any.whl
 Werkzeug @ file:///home/ckjackslack/.cache/pypoetry/artifacts/15/6b/e0/dcb9c5d85b1b89592b3c1c18c2706ff7cd932b9999492bb4c06d225b92/Werkzeug-2.2.3-py3-none-any.whl
 zipp @ file:///home/ckjackslack/.cache/pypoetry/artifacts/5d/6a/48/8e8ef419c1e6196bcffc9d173f848dd735590db78db8a81280f110015e/zipp-3.15.0-py3-none-any.whl
