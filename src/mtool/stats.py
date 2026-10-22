@@ -140,7 +140,7 @@ def format_summary(table: Table, summaries: Sequence[ColumnSummary]) -> str:
                 f"  mean: {_num(s.mean)}  median: {_num(s.median)}  stdev: {_num(s.stdev)}"
             )
             lines.append(f"  min: {_num(s.minimum)}  max: {_num(s.maximum)}")
-        elif s.top:
+        elif s.top and s.unique < s.count:  # skip "top" when every value is distinct
             top = ", ".join(f"{v!r} x{c}" for v, c in s.top)
             lines.append(f"  top: {top}")
         lines.append("")
